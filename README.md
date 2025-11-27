@@ -1,19 +1,22 @@
-# Campus Library — Examen Git
+# Campus Library — Git Exam
 
-## contribution :
-    Jean -- Daudé Louka
+## Contribution
+Jean-Daudé Louka
 
-## Usage:
-    This programe is used to categrorise books in a campus library.
-    To run this programme you will have to :
-        download this repository.
-        open your terminal
-        Type: 
-        ```sh
-        go run main
-        ```
+## Usage
+This program is used to categorize books in a campus library.
 
+To run this program:
 
-## Link:
-    repository : [Examen Git](https://github.com/loukajeandaudeself-dev/exam-git-avance.git)
-    information : [install GO](https://go.dev/doc/install)
+1. Download this repository.
+2. Open your terminal.
+3. Navigate to the project directory.
+4. Run the following command:
+   ```sh
+   go run main.go
+   ```
+
+## Links
+
+- Repository: [Examen Git](https://github.com/loukajeandaudeself-dev/exam-git-avance.git)
+- Information: [Install Go](https://go.dev/doc/install)
