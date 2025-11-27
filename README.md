@@ -1,11 +1,19 @@
 # Campus Library — Examen Git
 
-Ce repository contient plusieurs branches avec du code pré-écrit.
+### contribution :
+    Jean -- Daudé Louka
 
-🎯 Votre objectif : reconstruire le projet final en utilisant **exclusivement Git** :
-- fork
-- pull requests
-- merges
-- résolution de conflits
-- tags
-- historique propre
+### Usage:
+    This programe is used to categrorise books in a campus library.
+    To run this programme you will have to :
+        download this repository.
+        open your terminal
+        Type: 
+        ```sh
+        go run main
+        ```
+
+
+### Link:
+    repository : [Examen Git](https://github.com/loukajeandaudeself-dev/exam-git-avance.git)
+    information : [install GO](https://go.dev/doc/install)
